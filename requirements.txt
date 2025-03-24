@@ -1,0 +1,6 @@
+fastapi
+pydantic
+requests
+numpy
+scipy
+python-dotenv
